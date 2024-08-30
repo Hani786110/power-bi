@@ -52,6 +52,11 @@ This Power BI dashboard provides an interactive visualization of sales performan
 ![Screenshot 2024-08-30 000657](https://github.com/user-attachments/assets/b9346b74-63f9-4834-9563-6121798db1bb)
 ![Screenshot 2024-08-30 000740](https://github.com/user-attachments/assets/1fd473ce-bcb0-4fff-97a9-ca5f4305a03c)
 ![Screenshot 2024-08-30 001005](https://github.com/user-attachments/assets/fffd1da6-be60-49b7-8497-7d2d829938b0)
+![Screenshot 2024-08-30 192255](https://github.com/user-attachments/assets/2ade9b9c-0096-4b4f-9cbe-28a60774b52f)
+![Screenshot 2024-08-30 191428](https://github.com/user-attachments/assets/f0e05904-12f6-421f-a43e-4ac334a58c50)
+
+
+
 
 
 
